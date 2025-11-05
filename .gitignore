@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+db.sqlite3          # SQLite 数据库文件（如果使用 SQLite）
+*.log               # 日志文件
